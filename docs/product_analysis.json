@@ -1,0 +1,464 @@
+{
+  "company_info": {
+    "name": "한미르(주)",
+    "name_english": "Hanmir Corporation",
+    "established": "2009년 8월",
+    "location": "인천광역시 서구 도담로 190",
+    "business_focus": "무기질 기반 기능성 코팅제 전문 제조업체",
+    "core_technologies": [
+      "불연 코팅제",
+      "방염 도료",
+      "차열/단열 코팅제",
+      "방열 코팅제",
+      "실란 졸-겔 기술",
+      "에어로겔 기술"
+    ]
+  },
+  "brand_colors": {
+    "primary_color": {
+      "name": "Thermal Red",
+      "hex": "#C41E3A",
+      "rgb": "196, 30, 58",
+      "description": "열과 화재 방지의 강력함을 상징하는 깊은 적색"
+    },
+    "secondary_color": {
+      "name": "Safety Blue",
+      "hex": "#1E3A8A",
+      "rgb": "30, 58, 138",
+      "description": "신뢰성과 안전성을 나타내는 진한 파란색"
+    },
+    "accent_color": {
+      "name": "Innovation Orange",
+      "hex": "#EA580C",
+      "rgb": "234, 88, 12",
+      "description": "혁신과 에너지를 상징하는 생동감 있는 오렌지"
+    },
+    "neutral_colors": {
+      "dark_gray": "#374151",
+      "medium_gray": "#6B7280",
+      "light_gray": "#F3F4F6",
+      "white": "#FFFFFF"
+    },
+    "gradient_combinations": [
+      {
+        "name": "Fire Shield Gradient",
+        "colors": [
+          "#C41E3A",
+          "#EA580C"
+        ],
+        "usage": "Hero sections, product highlights"
+      },
+      {
+        "name": "Trust Gradient",
+        "colors": [
+          "#1E3A8A",
+          "#374151"
+        ],
+        "usage": "Technical specifications, corporate sections"
+      }
+    ]
+  },
+  "products": {
+    "fire_resistant_coatings": {
+      "category": "불연 코팅제",
+      "products": [
+        {
+          "product_code": "HC-850B",
+          "name": "실란 졸-겔 불연 코팅제",
+          "type": "Sol-Gel Fire Resistant Coating",
+          "characteristics": {
+            "base": "유기-무기 하이브리드 고분자",
+            "main_components": [
+              "알콕시실란 화합물",
+              "테트라에톡시실란 (TEOS)",
+              "메틸트리에톡시실란 (MTMS)",
+              "난연성 무기 필러"
+            ],
+            "curing_mechanism": "Sol-Gel 공정",
+            "application_method": "습식 도포",
+            "curing_temperature": "상온 또는 저온 경화"
+          },
+          "technical_specifications": {
+            "fire_resistance": "불연 등급",
+            "temperature_resistance": "고온 안정성",
+            "adhesion": "우수한 접착력",
+            "durability": "내후성, 내구성 우수",
+            "coating_type": "1액형 또는 2액형",
+            "surface_compatibility": [
+              "금속",
+              "목재",
+              "플라스틱",
+              "직물"
+            ]
+          },
+          "applications": [
+            "건축 내외장재",
+            "산업 설비",
+            "선박 내장재",
+            "항공우주 부품",
+            "전자기기 하우징"
+          ],
+          "advantages": [
+            "기존 유기계 불연 도료의 한계 극복",
+            "무기계 재료의 취성 보완",
+            "3차원 Si-O-Si 네트워크 형성",
+            "고온에서 안정한 구조"
+          ]
+        },
+        {
+          "product_code": "HC-860B",
+          "name": "불연급 바인더",
+          "type": "Fire-Resistant Grade Binder",
+          "characteristics": {
+            "function": "다른 기능성 코팅제의 기반 바인더",
+            "fire_grade": "불연급",
+            "compatibility": "다양한 기능성 필러와 조합 가능"
+          },
+          "applications": [
+            "방열 코팅제 바인더",
+            "기타 기능성 코팅제 기반재"
+          ]
+        }
+      ]
+    },
+    "flame_retardant_coatings": {
+      "category": "방염 도료",
+      "products": [
+        {
+          "product_code": "HAF-750A",
+          "name": "발포형 방염도료",
+          "type": "Intumescent Flame Retardant Coating",
+          "characteristics": {
+            "base": "수성 아크릴 에멀젼",
+            "main_components": [
+              "암모늄 폴리인산 (APP)",
+              "펜타에리쓰리톨 (PENTA)",
+              "멜라민"
+            ],
+            "mechanism": "발포(Intumescence) 현상",
+            "expansion_ratio": "초기 도막 두께 대비 10-100배 팽창"
+          },
+          "technical_specifications": {
+            "fire_performance": {
+              "char_formation": "다공성 탄화층 형성",
+              "heat_release_rate": "현저히 감소",
+              "smoke_production": "감소",
+              "expansion_temperature": "180-200°C"
+            },
+            "physical_properties": {
+              "appearance": "회색 또는 지정 색상",
+              "specific_gravity": "1.25-1.45",
+              "pH": "7.0-9.0",
+              "solid_content": "65-70%",
+              "drying_time": {
+                "touch_dry": "1-2시간",
+                "full_cure": "24시간 이상"
+              }
+            }
+          },
+          "applications": [
+            "목재 구조물",
+            "합판",
+            "직물",
+            "건축물 내장재",
+            "다중이용시설"
+          ],
+          "application_methods": [
+            "스프레이 도포",
+            "롤러 도포",
+            "붓 도포"
+          ]
+        },
+        {
+          "product_code": "HAF-775D",
+          "name": "발포형 방염도료 (고성능)",
+          "type": "High-Performance Intumescent Coating",
+          "characteristics": {
+            "enhanced_features": [
+              "팽창 흑연 추가",
+              "향상된 탄화층 강도",
+              "개선된 발포 메커니즘"
+            ]
+          },
+          "technical_specifications": {
+            "expansion_ratio": "20-50배",
+            "char_stability": "고온에서 견고한 유지"
+          }
+        },
+        {
+          "product_code": "CNF-300W",
+          "name": "투명 방염제",
+          "type": "Transparent Flame Retardant",
+          "characteristics": {
+            "base": "수성 아크릴 에멀젼",
+            "transparency": "투명 도포",
+            "main_components": [
+              "암모늄 폴리포스페이트 (APP)",
+              "펜타에리트리톨 (PENTA)",
+              "멜라민",
+              "붕산",
+              "붕사"
+            ],
+            "mechanism": "복합 난연 메커니즘"
+          },
+          "technical_specifications": {
+            "fire_test_standards": "KS F 2271 관련 규격",
+            "test_parameters": [
+              "잔염 시간",
+              "잔진 시간",
+              "탄화 면적 및 길이",
+              "연기 밀도"
+            ]
+          },
+          "applications": [
+            "목재",
+            "종이",
+            "섬유류",
+            "셀룰로스 기반 소재"
+          ],
+          "advantages": [
+            "투명성 유지",
+            "미관 보존",
+            "우수한 방염 성능",
+            "친환경 수성 타입"
+          ]
+        }
+      ]
+    },
+    "heat_reflecting_insulation": {
+      "category": "차열/단열 코팅제",
+      "products": [
+        {
+          "product_code": "HIC-035C",
+          "name": "차열 도료",
+          "type": "Heat-Reflecting and Insulating Coating",
+          "characteristics": {
+            "base": "아크릴 에멀젼",
+            "main_components": [
+              "TiO₂ (이산화티타늄)",
+              "글라스 버블",
+              "마이카"
+            ],
+            "mechanism": "복합적인 열 관리 메커니즘"
+          },
+          "technical_specifications": {
+            "heat_management": {
+              "reflection": "태양열 복사 반사",
+              "insulation": "열 전달 차단",
+              "nir_reflection": "근적외선 영역 반사"
+            },
+            "properties": {
+              "system_type": "수성(Waterborne)",
+              "environmental_friendly": "VOC 저방출",
+              "waterproof": "방수성",
+              "breathability": "적절한 통기성",
+              "color_stability": "색상 안정성 우수"
+            }
+          },
+          "applications": [
+            "건축물 외벽",
+            "지붕",
+            "저장 탱크",
+            "산업 시설"
+          ],
+          "benefits": [
+            "내부 온도 저감",
+            "에너지 효율 향상",
+            "냉각비용 절감",
+            "친환경 시공"
+          ],
+          "application_methods": [
+            "에어리스 스프레이 (권장)",
+            "롤러 도포",
+            "붓 도포"
+          ]
+        }
+      ]
+    },
+    "thermal_dissipation": {
+      "category": "방열 코팅제",
+      "products": [
+        {
+          "product_code": "HE-860B",
+          "name": "내고온 방열 코팅제",
+          "type": "High-Temperature Thermal Dissipation Coating",
+          "characteristics": {
+            "base": "불연급 HC-860B 바인더",
+            "main_components": [
+              "무통전 블랙 필러",
+              "탄화규소 (SiC)",
+              "티타늄 붕화물 (TiBN)"
+            ],
+            "mechanism": "복사 및 대류 방식 열 방출"
+          },
+          "technical_specifications": {
+            "thermal_properties": {
+              "thermal_conductivity": "0.5-2 W/m·K 이상",
+              "heat_resistance": "500-600°C 이상 지속 사용",
+              "emissivity": "높은 방사율",
+              "electrical_insulation": "전기 절연성 유지"
+            },
+            "mechanical_properties": {
+              "adhesion": "우수한 접착력",
+              "weather_resistance": "내후성 및 내식성",
+              "hardness": "내마모성",
+              "color": "흑색 (무통전 블랙 필러)"
+            }
+          },
+          "applications": [
+            "리튬이온 배터리 팩",
+            "전력 전자 장치",
+            "LED 조명",
+            "산업용 고온 설비",
+            "서버 및 데이터 센터",
+            "항공우주 부품"
+          ],
+          "curing": {
+            "room_temperature": "상온 경화 가능",
+            "heat_curing": "80-250°C 가열 경화 (성능 향상)"
+          }
+        }
+      ]
+    },
+    "inorganic_adhesives": {
+      "category": "무기계 접착제",
+      "products": [
+        {
+          "product_code": "SMG-505Y",
+          "name": "무기계 접착제",
+          "type": "Inorganic Adhesive",
+          "characteristics": {
+            "base": "소듐 실리케이트 + 카오린",
+            "type": "무기 화합물 기반",
+            "fire_safety": "가연성 물질 무함유"
+          },
+          "technical_specifications": {
+            "properties": {
+              "appearance": "회백색 점성 액체",
+              "pH": "11-12 (강알칼리성)",
+              "specific_gravity": "1.4-1.6 g/cm³",
+              "solid_content": "60-80%",
+              "heat_resistance": "800°C 이상",
+              "fire_rating": "불연/준불연 등급",
+              "toxic_gas": "화재 시 유독가스 발생 극소",
+              "voc": "VOC 거의 없음"
+            },
+            "curing": {
+              "initial_cure": "1-수 시간",
+              "full_cure": "24-72시간"
+            }
+          },
+          "applications": [
+            "내화벽돌 접착",
+            "단열재 시공",
+            "고온 설비 보수",
+            "세라믹 부품 접착"
+          ]
+        }
+      ]
+    }
+  },
+  "market_applications": {
+    "defense_aerospace": {
+      "name": "국방/항공우주",
+      "applications": [
+        "항공기 엔진 부품 코팅",
+        "우주선 열 보호 시스템",
+        "군용 장비 방화 코팅",
+        "레이더 시스템 열 관리"
+      ],
+      "key_requirements": [
+        "극한 온도 저항성",
+        "경량화",
+        "내구성",
+        "안전성"
+      ]
+    },
+    "shipbuilding": {
+      "name": "조선/해양",
+      "applications": [
+        "선박 내장재 방염 처리",
+        "엔진룸 고온 부품 보호",
+        "갑판 차열 코팅",
+        "해양 플랜트 안전 코팅"
+      ],
+      "key_requirements": [
+        "내염수성",
+        "방염 성능",
+        "내부식성",
+        "내후성"
+      ]
+    },
+    "battery_energy": {
+      "name": "2차 전지/에너지",
+      "applications": [
+        "배터리 열폭주 방지",
+        "전력 변환 장치 냉각",
+        "에너지 저장 시스템 안전",
+        "전기차 배터리 팩 보호"
+      ],
+      "key_requirements": [
+        "열 관리",
+        "전기 절연성",
+        "화재 안전성",
+        "경량화"
+      ]
+    },
+    "construction": {
+      "name": "건축/건설",
+      "applications": [
+        "건물 외벽 차열 코팅",
+        "내장재 방염 처리",
+        "지붕 단열 시스템",
+        "고층 건물 안전 코팅"
+      ],
+      "key_requirements": [
+        "건축법규 준수",
+        "에너지 효율",
+        "시공성",
+        "내구성"
+      ]
+    },
+    "electronics": {
+      "name": "전자/반도체",
+      "applications": [
+        "반도체 장비 열 관리",
+        "LED 방열 코팅",
+        "서버 냉각 시스템",
+        "전자 부품 보호"
+      ],
+      "key_requirements": [
+        "정밀한 열 제어",
+        "전기 절연성",
+        "신뢰성",
+        "소형화 대응"
+      ]
+    }
+  },
+  "competitive_advantages": [
+    "20년 이상의 기술 축적",
+    "다양한 산업 분야 적용 경험",
+    "독자적인 Sol-Gel 기술",
+    "환경 친화적 수성 시스템",
+    "맞춤형 솔루션 제공",
+    "국내 유일의 종합 기능성 코팅 전문 기업"
+  ],
+  "quality_certifications": [
+    "KS 규격 준수",
+    "ISO 화재 시험 기준",
+    "건축법규 불연/준불연 등급",
+    "해양 규격 승인",
+    "방위산업 품질 기준"
+  ],
+  "future_technologies": {
+    "aerogel_technology": {
+      "name": "에어로겔 기술",
+      "applications": [
+        "2차 전지 열폭주 방지용 준불연 면압패드",
+        "건축용 불연/준불연 내외장재 패널"
+      ],
+      "target_temperature": "1000°C 준불연 성능",
+      "development_status": "개발 및 생산 계획 중"
+    }
+  }
+}
